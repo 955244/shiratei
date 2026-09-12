@@ -360,4 +360,5 @@ export const siteConfig: SiteConfig = {
 
 	// 页面开关配置，在本配置文件顶部pages定义
 	pages,
-};
+}
+
